@@ -3,8 +3,8 @@ class Denpex < Formula
 
   desc "Find the likely cause of GPU training failures and run fleet health checks"
   homepage "https://denpex.com"
-  url "https://files.pythonhosted.org/packages/1f/0f/efd6b607c896dc3b9cd11d13318149abc0c159688174b5d70a719ec1df13/denpex-1.1.37.tar.gz"
-  sha256 "2520b3d6b570fe0e11ff089a769e2991b90e3ff290c15c7f7b8d4053e11e9216"
+  url "https://files.pythonhosted.org/packages/f9/99/c56d8c51c9eca61a800431e11fb5731762041eb6c513112793040e40ef44/denpex-1.1.38.tar.gz"
+  sha256 "bc98ec758591ff1b88618707a8ae8ba8adf8efb14542eb7251d7a64d9bf033e5"
   license "MIT"
 
   depends_on "python@3.12"
